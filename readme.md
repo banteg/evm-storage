@@ -239,8 +239,8 @@ serialization bugs, both mapping hash orders, historical Vyper composite roots,
 packed fields, dynamic arrays, path reads, pre/post state diffs, both live
 struct-log JSON shapes, and delegatecall attribution.
 
-The original proof-of-concept fragments are preserved under `legacy/` and are
-excluded from the distribution.
+The original root-level proof-of-concept files are not part of the package or
+source distribution.
 
 ## Reference
 
